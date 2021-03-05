@@ -32,5 +32,5 @@ The Unlicense
 
 ## Screenshots
 
-![Screenshot_01](./DocsAndSetup/Screenshots/Screenshot.PNG?raw=true)
-![Screenshot_02](./DocsAndSetup/Screenshots/Screenshot_02.PNG?raw=true)
+![Screenshot_01](./DocsAndSetup/Screenshots/Screenshot.png?raw=true)
+![Screenshot_02](./DocsAndSetup/Screenshots/Screenshot_02.png?raw=true)
