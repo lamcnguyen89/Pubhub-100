@@ -27,7 +27,7 @@
 		<h1>PUBHUB <small>Search Books by Tag</small></h1>
 			<hr class="book-primary">
 			
-			<form action="BooksbyTag" method="get" class="form-horizontal">
+			<form action="BooksByTag" method="get" class="form-horizontal">
 				<div class="form-group">
 					<label for="title" class="col-sm-4 control-label">
 						Tag
